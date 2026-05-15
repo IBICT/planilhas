@@ -1,5 +1,6 @@
 src/**
 .gitignore
+.claude/**
 tsconfig.json
 esbuild.js
 scripts/

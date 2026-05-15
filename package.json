@@ -6,6 +6,10 @@
   "publisher": "ibict",
   "icon": "logo.png",
   "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IBICT/planilhas.git"
+  },
   "engines": { "vscode": "^1.70.0" },
   "categories": ["Other"],
   "activationEvents": [],
