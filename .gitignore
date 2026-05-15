@@ -1,0 +1,35 @@
+# Dependências
+node_modules/
+
+# Saída de compilação
+out/
+build/
+dist/
+
+# Assets gerados pelo build
+media/
+
+# Pacotes gerados
+*.vsix
+
+# TypeScript
+*.js.map
+*.d.ts
+
+# Logs
+*.log
+npm-debug.log*
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# VS Code (configurações locais do desenvolvedor)
+.vscode/settings.json
+.vscode/launch.json
+.vscode/*.code-workspace
+
+# Variáveis de ambiente
+.env
+.env.local
+.env.*.local
